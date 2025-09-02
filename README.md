@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nurtugan</h1>
 <h3 align="center">A passionate backend developer from Kazakhstan</h3>
 
-- 🌱 I’m currently learning **Django,kafka**
+- 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **python,flask,aiogram**
 
